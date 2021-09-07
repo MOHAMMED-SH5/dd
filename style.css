@@ -1,0 +1,56 @@
+.boxone
+{
+    background-color:white;
+    border-radius: 33px;
+}
+.boxtwo
+{
+    background-color:white;
+    border-radius: 33px;
+    border: 7px dashed #78C2FF;
+}
+.boxthree
+{
+    background-color:white;
+    border-radius: 33px;
+}
+.boxfour
+{
+    background-color:white;
+    border-radius: 33px;
+}
+.boxfive
+{
+    background-color:white;
+    border-radius: 33px;
+}
+.boxsix
+{
+    background-color:white;
+    border-radius: 33px;
+}
+ul
+{
+    list-style: none;
+}
+li
+{
+    display: inline;
+    margin-left: 20px;
+}
+.footer
+{
+    background-color: #303669;
+}
+h1
+{
+    color: white;
+}
+p
+{
+    color: white;
+}
+#icons
+{
+    color:#A4C4F3;
+}
